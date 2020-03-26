@@ -2,7 +2,7 @@
 
 console.log('Loaded map.js')
 
-mapboxgl.accessToken = 'YOUR TOKEN HERE'
+mapboxgl.accessToken = 'pk.eyJ1IjoidHMzMTU1IiwiYSI6ImNrODh3enI0ajAweWIzbG12cHE0NGxyc2MifQ.0oMeDU5yxeGAedhyneECjQ'
 
 let map = new mapboxgl.Map({
     container: 'map',
